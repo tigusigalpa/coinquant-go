@@ -17,6 +17,13 @@ Build, backtest, and ship algorithmic trading strategies from your Go code, with
 
 ---
 
+## Related Projects and Documentation
+
+- **[coinquant-go Wiki](https://github.com/tigusigalpa/coinquant-go/wiki)** - Complete guides, API notes, and practical
+  usage examples.
+- **[coinquant-php](https://github.com/tigusigalpa/coinquant-php)** - The companion CoinQuant SDK for PHP/Laravel
+  projects.
+
 ## Why this package?
 
 I built this because I wanted to talk to the CoinQuant API from Go without writing the same HTTP and SSE plumbing every
